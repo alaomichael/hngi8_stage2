@@ -133,6 +133,12 @@ section{
     margin: 5px;
 }
 
+.pic{
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+}
+
 .button {
     border: 0;
     padding: 10px 20px;
